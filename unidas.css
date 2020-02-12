@@ -1,0 +1,10 @@
+body{
+    height: 100%;
+    width : 100%;
+}
+
+.fondomorado {
+    background-color: #4b57a1;
+    background-image: url(fondo.png);
+
+}
