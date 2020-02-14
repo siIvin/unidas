@@ -5,6 +5,97 @@ body{
 
 .fondomorado {
     background-color: #4b57a1;
-    background-image: url(fondo.png);
+    background-image: url(fondo.png)
 
+}
+.barra{
+    background-color: #c26dbc;
+}
+.pie{
+    background-color: #d9d9d9;
+}
+
+
+.circulo{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    background:linear-gradient(to left top, #fdd900,#4b57a1);
+
+}
+
+.texto-cuerpo{
+    color:black;
+    font-size: 18px;
+    font-family:"Comic Sans MS";
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.color-iconos{
+    color:#4b57a1;
+    background-color: #d9d9d9;
+}
+
+.contenedor{
+    justify-items: center;
+}
+.DonarFoto1{
+    height: 10%;
+    width : 10%;
+}
+
+.titulo{
+    text-align: center;
+}
+.texto{
+    color: white;
+    
+}
+.texto2{
+    color: #c26dbc;
+    
+}
+.paypal{
+    justify-content: center;
+}
+
+.columna1{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.circle {
+    justify-content: flex-end;
+    height: 550px;
+    width: 550px;
+    background-color: #fdd900;
+    border-radius: 50%;
+  }
+.oracion{
+    justify-content: center;
+    align-items: center;
+  }
+
+.rectangle {
+  height: 150px;
+  width: 100%;
+  background-color: #fdd900;
+  justify-content: center;
+  text-align: center;
+}
+.rectangle2 {
+    height: 100%;
+    width: 250%;
+    background-color: #fdd900;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+.formu{
+    color: #fdd900;
 }
